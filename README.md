@@ -1,7 +1,6 @@
-#  Заголовок первого уровня
-# What a nice day!
+#  Заголовок первого уровня# What a nice day!
 
-![logo](/https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg)
+![logo](https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg)
 
 * Spain
 * USA
